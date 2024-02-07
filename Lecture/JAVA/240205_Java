@@ -3,7 +3,7 @@
 <head>
 <script>
     function myfunction() {
-        document.getelementById("demo").innerhtml = "text changed."";
+        document.getelementById("demo").innerhtml = "text changed.";
     }
 </script>
 </head>
@@ -15,6 +15,7 @@
 var a, b, c;
 a = 7;
 b = 3;
+
 </script>
 <script src="myScript.js"> </script>
 *type of variable add typeof*
