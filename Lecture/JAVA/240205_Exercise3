@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2> JavaScript Variables</h2>
+<p> an example of JavaScript </p>
+<p id="demo"> </p>
+
+<script>
+var x;
+x = 7;
+y = 8;
+z = x + y;
+
+document.getElementById("demo").innerHTML= "The value of z is: " + z;
+</script>
+</body>
+</html>

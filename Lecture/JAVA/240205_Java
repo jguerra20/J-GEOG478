@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+    function myfunction() {
+        document.getelementById("demo").innerhtml = "text changed."";
+    }
+</script>
+</head>
+<body>
+    <h2>How JavaScript Works?<h2>
+
+<p id="demo1"> </p>
+<script>
+var a, b, c;
+a = 7;
+b = 3;
+
+</script>
+<script src="myScript.js"> </script>
+*type of variable add typeof*
